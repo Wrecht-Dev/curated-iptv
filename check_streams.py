@@ -228,7 +228,7 @@ def run(args):
     dead = [e for e in entries if not results[e["url"]]]
     print(f"  alive: {len(entries) - len(dead)}   dead: {len(dead)}")
     if not dead:
-        write_report(0, [], [], global_hdr is not None)
+        write_report(len(entries), [], [], args.dry_run)
         print("All streams healthy. Nothing to do.")
         return
 
