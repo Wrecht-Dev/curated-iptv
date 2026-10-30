@@ -8,6 +8,9 @@ SITE = os.path.join(BASE, "site")
 shutil.rmtree(SITE, ignore_errors=True)
 os.makedirs(SITE)
 shutil.copy2(os.path.join(BASE, "curated.m3u"), os.path.join(SITE, "curated.m3u"))
+epg_src = os.path.join(BASE, "epg.xml.gz")
+if os.path.exists(epg_src):
+    shutil.copy2(epg_src, os.path.join(SITE, "epg.xml.gz"))
 
 groups, total = {}, 0
 cur = None
@@ -36,8 +39,7 @@ a{{color:#7ad}}</style></head><body>
 <h1>Curated IPTV playlist</h1>
 <p><b>{total} channels</b> · auto-refreshed daily · last build {stamp}</p>
 <p>Playlist: <a href="curated.m3u">curated.m3u</a> ·
-EPG (set both in your player):<br>
-<code>https://i.mjh.nz/all/epg.xml.gz</code></p>
+EPG (trimmed to these channels): <a href="epg.xml.gz">epg.xml.gz</a></p>
 {rows}</body></html>""")
 
 print(f"site/: curated.m3u + index.html ({total} channels, {len(groups)} groups)")

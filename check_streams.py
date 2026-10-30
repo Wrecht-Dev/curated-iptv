@@ -67,10 +67,12 @@ def parse_m3u(text):
             name = stripped.split(",", 1)[-1].strip()
             m = re.search(r'tvg-logo="([^"]*)"', extinf)
             g = re.search(r'group-title="([^"]*)"', extinf)
+            i = re.search(r'tvg-id="([^"]*)"', extinf)
             entries.append({
                 "name": name,
                 "logo": m.group(1) if m else "",
                 "group": g.group(1) if g else "Uncategorized",
+                "tvg_id": i.group(1) if i else "",
                 "url": ln,
             })
             extinf = None
@@ -85,7 +87,8 @@ def serialize(entries, header="#EXTM3U x-tvg-url=\"https://i.mjh.nz/all/epg.xml.
         members = [e for e in entries if e["group"] == g]
         out += ["", f"# --- {g} ({len(members)}) ---"]
         for e in members:
-            out.append(f'#EXTINF:-1 tvg-name="{e["name"]}" tvg-logo="{e["logo"]}" '
+            out.append(f'#EXTINF:-1 tvg-id="{e.get("tvg_id", "")}" tvg-name="{e["name"]}" '
+                       f'tvg-logo="{e["logo"]}" '
                        f'group-title="{e["group"]}",{e["name"]}')
             out.append(e["url"])
     return "\n".join(out) + "\n"
