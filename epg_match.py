@@ -3,7 +3,7 @@
 
 1. Fetch per-provider guides from i.mjh.nz (Pluto/Plex/Samsung/Roku).
 2. Match mjh channels to curated channel names (normalized).
-3. Write site-ready trimmed guide: epg.xml.gz (only our channels + programmes).
+3. Write site-ready trimmed guide: epg.xml.gz + epg.xml (both formats).
 4. Stamp the best-matching mjh channel id into curated.m3u tvg-id attributes.
 
 Run AFTER check_streams.py, BEFORE gen_site.py. Stdlib only.
@@ -18,6 +18,7 @@ from check_streams import norm_key, parse_m3u  # shared normalization
 BASE = os.path.dirname(os.path.abspath(__file__))
 CURATED = os.path.join(BASE, "curated.m3u")
 EPG_OUT = os.path.join(BASE, "epg.xml.gz")
+EPG_PLAIN = os.path.join(BASE, "epg.xml")
 SRC = [
     "https://i.mjh.nz/PlutoTV/us.xml.gz",
     "https://i.mjh.nz/Plex/us.xml.gz",
@@ -115,8 +116,10 @@ def main():
     xml = ET.tostring(root, encoding="utf-8", xml_declaration=True)
     with gzip.open(EPG_OUT, "wb", compresslevel=9) as f:
         f.write(xml)
+    with open(EPG_PLAIN, "wb") as f:          # uncompressed twin for strict parsers
+        f.write(xml)
     print(f"trimmed guide: {n_out_chan} channels, {n_out_prog} programmes, "
-          f"{os.path.getsize(EPG_OUT)/1e6:.1f} MB gz")
+          f"{os.path.getsize(EPG_OUT)/1e6:.1f} MB gz / {os.path.getsize(EPG_PLAIN)/1e6:.1f} MB xml")
 
     # stamp tvg-id into curated.m3u
     for e in curated:
