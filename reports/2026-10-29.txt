@@ -1,0 +1,5 @@
+[2026-10-29 23:45:39] total=3 dead=2 replaced=1 quarantined=1
+  REPLACED Dead Channel
+    old: http://127.0.0.1:8977/missing.m3u8
+    new: http://127.0.0.1:8977/live.m3u8 (match 100%)
+  QUARANTINED [Test] Also Dead  http://127.0.0.1:8977/gone.m3u8

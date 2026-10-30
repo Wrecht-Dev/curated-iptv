@@ -1,0 +1,61 @@
+name: daily-refresh
+
+on:
+  schedule:
+    - cron: "0 10 * * *"   # 10:00 UTC daily (05:00 US Eastern)
+  workflow_dispatch: {}     # manual "Run workflow" button
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: daily-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Probe + repair playlist
+        run: python check_streams.py
+
+      - name: Generate site
+        run: python gen_site.py
+
+      - name: Commit changes
+        id: commit
+        run: |
+          git config user.name  "iptv-bot"
+          git config user.email "actions@github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No changes — streams all healthy."
+          else
+            git commit -m "daily refresh $(date -u +%F): repair dead streams"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy-pages:
+    needs: refresh
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

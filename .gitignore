@@ -1,0 +1,7 @@
+raw/*.m3u
+raw/*.m3u8
+site/
+backups/
+quarantine.m3u
+__pycache__/
+*.pyc
