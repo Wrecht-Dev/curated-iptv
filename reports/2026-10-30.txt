@@ -1,0 +1,100 @@
+[2026-10-30 03:47:14] total=375 dead=71 replaced=14 quarantined=57
+  REPLACED Universal Crime
+    old: http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcrime/playlist.m3u8
+    new: https://jmp2.uk/plu-6549341853fc9700083901ac.m3u8 (match 100%)
+  REPLACED CBS News Bay Area
+    old: https://cbsn-sf.cbsnstream.cbsnews.com/out/v1/dac63c1abb3f4a2dac9f508f44bb072a/master.m3u8
+    new: https://jmp2.uk/plu-5eb1afb21486df0007abc57c.m3u8 (match 100%)
+  REPLACED CBS News Boston
+    old: https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
+    new: https://jmp2.uk/plu-5eb1af2ad345340008fccd1e.m3u8 (match 100%)
+  REPLACED CBS News Chicago
+    old: https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8
+    new: https://jmp2.uk/plu-62cdc75b1a1cbd0007ed45dc.m3u8 (match 100%)
+  REPLACED CBS News Colorado
+    old: https://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8
+    new: https://jmp2.uk/plu-5eb1b12146cba40007aa7e5d.m3u8 (match 100%)
+  REPLACED CBS News Detroit
+    old: https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fea069/master.m3u8
+    new: https://jmp2.uk/plu-634f2610d5023700078f7dee.m3u8 (match 100%)
+  REPLACED CBS News Los Angeles
+    old: https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
+    new: https://jmp2.uk/plu-5dc9b875e280c80009a8a44a.m3u8 (match 100%)
+  REPLACED CBS News Minnesota
+    old: https://cbsn-min.cbsnstream.cbsnews.com/out/v1/76518f06941246ba810c8d175600bf74/master.m3u8
+    new: https://jmp2.uk/plu-5eb1b0bf2240d8000732a09c.m3u8 (match 100%)
+  REPLACED CBS News New York
+    old: https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
+    new: https://jmp2.uk/plu-5dc9b8223687ff000936ed79.m3u8 (match 100%)
+  REPLACED CBS News Pittsburgh
+    old: https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
+    new: https://jmp2.uk/plu-5eb1b17aa5277e00083f6521.m3u8 (match 100%)
+  REPLACED Xtreme Outdoor by HISTORY
+    old: https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-5f74cf7effbe690040689f3e/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
+    new: https://jmp2.uk/plu-6000a6f4c3f8550008fc9b91.m3u8 (match 100%)
+  REPLACED E! Keeping Up
+    old: https://xumo-xumoent-vc-117-a3ga4.fast.nbcuni.com/live/master.m3u8
+    new: https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-645e328e3ea1d2d705ef8ab2/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6 (match 100%)
+  REPLACED The First 48 by A&E
+    old: https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-681620c4a11533c312abacbe/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
+    new: https://jmp2.uk/plu-6887aaade3703b7d42b64be8.m3u8 (match 100%)
+  REPLACED Western Bound
+    old: https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-62316e8eb9d292cb4ad7499f/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
+    new: https://jmp2.uk/stvp-USBC3200020QF (match 100%)
+  QUARANTINED [Cartoons & Kids] BBC Kids  https://dmr1h4skdal9h.cloudfront.net/playlist.m3u8
+  QUARANTINED [Cartoons & Kids] Ketchup TV  https://d24p9tv2w5yorn.cloudfront.net/vod.m3u8
+  QUARANTINED [Cartoons & Kids] NCM Educational and Kids Channel  https://reflect-npa.cablecast.tv/live-9/live/live.m3u8
+  QUARANTINED [Cartoons & Kids] Tooncast  http://38.134.250.110:8000/play/a01t/index.m3u8
+  QUARANTINED [True Crime] Reelz  http://23.237.104.106:8080/USA_REELZ/index.m3u8
+  QUARANTINED [True Crime] The Film Detective  https://cinedigm-entertainment-corp-thefilmdetective-1-us.ono.wurl.tv/playlist.m3u8
+  QUARANTINED [US News & Weather] Alabama Weather Network  https://alwxnet-ott-proxy.cloud9streaming.com/alwxnet/live/playlist.m3u8
+  QUARANTINED [US News & Weather] CNBC  http://41.205.93.154/CNBC/index.m3u8
+  QUARANTINED [History & Docs] Torque Presented By History  https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-63c1e64df0f132afc3afbab4/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
+  QUARANTINED [Sci-Fi & Fantasy] BBC Sci-Fi  https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-65622ac05dbccec83a87b641/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
+  QUARANTINED [Sci-Fi & Fantasy] Classic Doctor Who  https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-63068b870bbec3b06755a0ee/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
+  QUARANTINED [Sci-Fi & Fantasy] FilmRise Sci-Fi  https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6449369eb3ff17382cae580d/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
+  QUARANTINED [Sci-Fi & Fantasy] Stargate by MGM  https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-686ece9798f4de63d27483b9/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
+  QUARANTINED [Sci-Fi & Fantasy] The Outer Limits  https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-689fb59eba3be0bafe349d35/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
+  QUARANTINED [Classic Cable & Sitcoms] 80's Sitcom Flashback  https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-65fca98c60dc164e8f272332/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
+  QUARANTINED [Classic Cable & Sitcoms] A&E Alaska State Troopers  https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6a024c8e981d28c38fb16f21/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
+  QUARANTINED [Classic Cable & Sitcoms] A&E Live PD Greatest Shifts  https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-698a79b4c2d4abeac5f2ce1f/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
+  QUARANTINED [Classic Cable & Sitcoms] All Reality We TV  https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-5fc705ff2f220e002d5e6bec/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
+  QUARANTINED [Classic Cable & Sitcoms] AMC Thrillers  https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-5fc705e2a2236e002d69f36d/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
+  QUARANTINED [Classic Cable & Sitcoms] America's Funniest Home Videos  https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-690549d77a3fc35d95153b9e/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
+  QUARANTINED [Classic Cable & Sitcoms] American Gladiators by MGM  https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6876f9be20555588ef322221/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
+  QUARANTINED [Classic Cable & Sitcoms] BBC Game Shows  https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-656229e4b7d737841f30a4fb/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
+  QUARANTINED [Classic Cable & Sitcoms] BET x Tyler Perry Comedy  https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-66635c20ca7b22f4c3a2d73f/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
+  QUARANTINED [Classic Cable & Sitcoms] BET x Tyler Perry Drama  https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-66635b07ca7b22f4c3a2d73d/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
+  QUARANTINED [Classic Cable & Sitcoms] Bravo Vault  https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-645e328fb164db00b4547f05/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
+  QUARANTINED [Classic Cable & Sitcoms] Chaos on Cam by A&E  https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-67be3cc41a98aab3729899ba/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
+  QUARANTINED [Classic Cable & Sitcoms] Cinevault 80s  https://aegis-cloudfront-1.tubi.video/ea1ab5d1-f554-4f6b-b03f-2611fcd94257/playlist.m3u8
+  QUARANTINED [Classic Cable & Sitcoms] Classic Family Feud  https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-64b710b44612b1f48e9ad31a/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
+  QUARANTINED [Classic Cable & Sitcoms] Duck Dynasty by A&E  https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-63f688faf615dc7d3f9071f7/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
+  QUARANTINED [Classic Cable & Sitcoms] Family Feud  https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-66a2d1390b91165254efdb3e/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
+  QUARANTINED [Classic Cable & Sitcoms] FilmRise Action  https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-66ea0504c24d95b51b7cd189/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
+  QUARANTINED [Classic Cable & Sitcoms] FilmRise Black TV  https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-69332d894b745570462f3cc4/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
+  QUARANTINED [Classic Cable & Sitcoms] FilmRise British TV  https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6449369eb3ff17382cae5808/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
+  QUARANTINED [Classic Cable & Sitcoms] FilmRise Classic TV  https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-66ea07049502c5778b828d3f/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
+  QUARANTINED [Classic Cable & Sitcoms] FilmRise Comedy  https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-68db6a852be6c4ceb7947b9a/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
+  QUARANTINED [Classic Cable & Sitcoms] FilmRise Creators  https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-68db6b54475aa6420c85f230/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
+  QUARANTINED [Classic Cable & Sitcoms] FilmRise Drama  https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-68db6bc5475aa6420c85f232/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
+  QUARANTINED [Classic Cable & Sitcoms] FilmRise Free Movies  https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-66ea085d9502c5778b828d41/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
+  QUARANTINED [Classic Cable & Sitcoms] FilmRise Horror  https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-66ea09a39502c5778b828d43/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
+  QUARANTINED [Classic Cable & Sitcoms] FilmRise Music  https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-67cbd3318fe3ca436b8b0496/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
+  QUARANTINED [Classic Cable & Sitcoms] FilmRise Mysteries  https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6933306bac5b3f9f53442372/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
+  QUARANTINED [Classic Cable & Sitcoms] FilmRise Western  https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6449369eb3ff17382cae57fd/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
+  QUARANTINED [Classic Cable & Sitcoms] GameTVGO  https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-64d2bdf1b18b113e0c610113/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
+  QUARANTINED [Classic Cable & Sitcoms] Grjngo - Western Movies  https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-63489a771159f6a5ce819b7b/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
+  QUARANTINED [Classic Cable & Sitcoms] Halloween Plus  https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-634700569d64afa6830d1521/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
+  QUARANTINED [Classic Cable & Sitcoms] Hit Sitcoms  https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-66b13b29a9ef8c41ec0841b0/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
+  QUARANTINED [Classic Cable & Sitcoms] In The Heat Of The Night by MGM  https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6876f8e2e50e77c59c8940c0/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
+  QUARANTINED [Classic Cable & Sitcoms] Love After Lockup We TV  https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-684059c5f36ba25bbd7fb81d/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
+  QUARANTINED [Classic Cable & Sitcoms] MGM Presents  https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6876fa82e50e77c59c8940c2/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
+  QUARANTINED [Classic Cable & Sitcoms] MGM Presents: Action  https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-689fb42fba3be0bafe349d33/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
+  QUARANTINED [Classic Cable & Sitcoms] MGM Presents: Horror  https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6abd4e58a9d133322be5f940/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
+  QUARANTINED [Classic Cable & Sitcoms] MGM Presents: Westerns  https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-689fb8470a486aeba3c7917e/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
+  QUARANTINED [Classic Cable & Sitcoms] Storage Wars by A&E  https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-67a37720786c8a28ae4965bb/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
+  QUARANTINED [Classic Cable & Sitcoms] Teen Wolf by MGM  https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6874409e46d1d8d8348e6b7e/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
+  QUARANTINED [Classic Cable & Sitcoms] TNT International SD  https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
+  QUARANTINED [Classic Cable & Sitcoms] Universal Comedy  http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcomedy/playlist.m3u8
+  QUARANTINED [Classic Cable & Sitcoms] USA Network  http://190.197.41.183/USA_NETWORK/index.m3u8
