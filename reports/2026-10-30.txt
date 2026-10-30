@@ -99,3 +99,12 @@
   QUARANTINED [Classic Cable & Sitcoms] Universal Comedy  http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcomedy/playlist.m3u8
   QUARANTINED [Classic Cable & Sitcoms] USA Network  http://190.197.41.183/USA_NETWORK/index.m3u8
 [2026-10-30 04:09:24] total=0 dead=0 replaced=0 quarantined=0 (dry-run)
+[2026-10-30 04:27:15] total=318 dead=8 replaced=0 quarantined=8
+  QUARANTINED [Cartoons & Kids] Cartoon Network  http://212.5.144.156:8080/cartoon/index.m3u8
+  QUARANTINED [Cartoons & Kids] Nick Jr.  http://212.5.144.156:8080/nickjr/index.m3u8
+  QUARANTINED [True Crime] Investigation Discovery  http://212.5.144.156:8080/id/index.m3u8
+  QUARANTINED [US News & Weather] CNN HD  http://212.5.144.156:8080/cnn/index.m3u8
+  QUARANTINED [History & Docs] Discovery Channel  http://212.5.144.156:8080/discovery/index.m3u8
+  QUARANTINED [History & Docs] History  http://212.5.144.156:8080/history/index.m3u8
+  QUARANTINED [History & Docs] National Geographic  http://212.5.144.156:8080/natgeo/index.m3u8
+  QUARANTINED [Classic Cable & Sitcoms] TNT  http://212.5.144.156/tnt/index.m3u8
