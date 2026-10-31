@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://wrecht-dev.github.io/curated-iptv/epg.xml.gz"
 
-# --- Cartoons & Kids (47) ---
+# --- Cartoons & Kids (45) ---
 #EXTINF:-1 tvg-id="6452c814939a590008567a3b" tvg-name="90's Kids" tvg-logo="https://images.pluto.tv/channels/6452c814939a590008567a3b/colorLogoPNG_1731836283044.png" group-title="Cartoons & Kids",90's Kids
 https://jmp2.uk/plu-6452c814939a590008567a3b.m3u8
 #EXTINF:-1 tvg-id="6452c77ed3fdde00080eb3a8" tvg-name="90s Kids TV 2" tvg-logo="https://images.pluto.tv/channels/6452c77ed3fdde00080eb3a8/colorLogoPNG.png" group-title="Cartoons & Kids",90s Kids TV 2
@@ -17,8 +17,6 @@ https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 https://jmp2.uk/plu-6a3c5fa46276c42ac6726b27.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png" group-title="Cartoons & Kids",Boomerang
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png" group-title="Cartoons & Kids",Disney Junior
-http://tvsen5.aynascope.net/disney/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/960px-2015_Disney_XD_logo.svg.png" group-title="Cartoons & Kids",Disney XD
 http://89.187.179.148:826/1368/gXwiagaXda/1672
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6449369eb3ff17382cae5819" tvg-name="FilmRise Anime" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cff7361f-e0ba-4aeb-9251-9530f4eb1d80/FilmRise_Anime_1500x1000_Light_Logo.png" group-title="Cartoons & Kids",FilmRise Anime
@@ -81,8 +79,6 @@ http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6615522e50e81fa51eb0df62/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
 #EXTINF:-1 tvg-id="667f393836a2f90008fd17c0" tvg-name="Strawberry Shortcake and Friends" tvg-logo="https://images.pluto.tv/channels/667f393836a2f90008fd17c0/colorLogoPNG_1753982261322.png" group-title="Cartoons & Kids",Strawberry Shortcake and Friends
 https://jmp2.uk/plu-667f393836a2f90008fd17c0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TeenNick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/960px-TeenNick_2019_logo.svg.png" group-title="Cartoons & Kids",TeenNick
-http://tvsen7.aynascope.net/teennick/index.m3u8
 #EXTINF:-1 tvg-id="a673e94f2e565b3ab01168183745a6c6" tvg-name="Teletubbies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f50e841a-8e39-441c-a7de-aa5925e6171a/teled39375085042573d5d6d78b53aca27b8.png" group-title="Cartoons & Kids",Teletubbies
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6615522e50e81fa51eb0df61/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-670858335b42d01c9391e325" tvg-name="The Kids in the Hall" tvg-logo="https://provider-static.plex.tv/epg/cms/production/60b4e759-0db0-40cc-ac85-8f0a1d3e2628/FilmRise_KidsInTheHall_Logo_WhiteRDX.png" group-title="Cartoons & Kids",The Kids in the Hall
@@ -97,7 +93,7 @@ http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
 
 # --- True Crime (44) ---
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-5f74cf7effbe690040689f41" tvg-name="A&E Crime 360" tvg-logo="https://provider-static.plex.tv/epg/cms/production/06c3d1f2-d57d-438d-a589-049a07abc5a0/AE_Crime_360_color_WHT_TXT.png" group-title="True Crime",A&E Crime 360
+#EXTINF:-1 tvg-id="0455f88e83625b3c8c302db0c30fe01e" tvg-name="A&E Crime 360" tvg-logo="https://provider-static.plex.tv/epg/cms/production/06c3d1f2-d57d-438d-a589-049a07abc5a0/AE_Crime_360_color_WHT_TXT.png" group-title="True Crime",A&E Crime 360
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-5f74cf7effbe690040689f41/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
 #EXTINF:-1 tvg-id="7390ae841de55137a5736a3750ec446e" tvg-name="American Crimes" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5b694d82-7b61-49a2-a28e-95b07d8105ac/american-crimes-fclogo-White.png" group-title="True Crime",American Crimes
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6467891c73e5e029428f0e16/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
@@ -143,7 +139,7 @@ https://pb-x9qsxrudiq9d2.akamaized.net/webvtt/v1/18584c3f3a2a4df8/88886014/maste
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-646e489b58898bf3be94b325/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6449369f243fbe342a9c0b4d" tvg-name="Forensic Files" tvg-logo="https://i.imgur.com/V5vvuLK.png" group-title="True Crime",Forensic Files
 https://jmp2.uk/plu-62e92392a3e6270007f562e8.m3u8
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-62b45f15b4508e0eedacdf26" tvg-name="Ion Mystery" tvg-logo="https://provider-static.plex.tv/1/epg/channels/logos/gracenote/1247cd5fa3876d1c486559e0460b300b.png" group-title="True Crime",Ion Mystery
+#EXTINF:-1 tvg-id="16f751e2330d5a09a5e1a25a52b2b09c" tvg-name="Ion Mystery" tvg-logo="https://provider-static.plex.tv/1/epg/channels/logos/gracenote/1247cd5fa3876d1c486559e0460b300b.png" group-title="True Crime",Ion Mystery
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-62b45f15b4508e0eedacdf26/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
 #EXTINF:-1 tvg-id="004bc9ca41ae0ffb848a75f33b34ad4a" tvg-name="Kelsi Davies: Paranormal Investigations" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/004bc9ca41ae0ffb848a75f33b34ad4a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1787162259025_kelsi_davies_logo_hud.png" group-title="True Crime",Kelsi Davies: Paranormal Investigations
 https://jmp2.uk/rok-004bc9ca41ae0ffb848a75f33b34ad4a.m3u8
@@ -167,7 +163,7 @@ https://jmp2.uk/plu-5f4d8594eb979c0007706de7.m3u8
 https://jmp2.uk/plu-5812be1c249444e05d09cc50.m3u8
 #EXTINF:-1 tvg-id="cc72c25b76295e07862192d21bbff05b" tvg-name="Real Crime" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b0d345b3-05d6-41d2-82b1-0bfdd351312a/Real_Crime_Logo_White_-_Simon_Tuquabordx2.png" group-title="True Crime",Real Crime
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-636d9d2d4ea1109a7d205a70/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
-#EXTINF:-1 tvg-id="8abbea29b86a5a5da299c7ef2e288cab" tvg-name="REELZ Famous and Infamous" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8bcf761d-cf7d-4ee5-84f8-985dcef2cf78/REELZ_Famous_Infamous_1500x1000_Logo_Light_-_Kenneth_Kirtley.png" group-title="True Crime",REELZ Famous and Infamous
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-64f0d3ddc2bc9b9001d46ea4" tvg-name="REELZ Famous and Infamous" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8bcf761d-cf7d-4ee5-84f8-985dcef2cf78/REELZ_Famous_Infamous_1500x1000_Logo_Light_-_Kenneth_Kirtley.png" group-title="True Crime",REELZ Famous and Infamous
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-64f0d3ddc2bc9b9001d46ea4/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-67cbd471cc5136329877e098" tvg-name="The New Detectives" tvg-logo="https://images.pluto.tv/channels/62bdabbc5611f2000761ca30/colorLogoPNG.png" group-title="True Crime",The New Detectives
 https://jmp2.uk/plu-5aea40b35126c2157123aa64.m3u8
@@ -432,7 +428,7 @@ https://jmp2.uk/plu-67352ed93a61d4000881f9fa.m3u8
 #EXTINF:-1 tvg-id="6913e381b6bf26bb6e798c13" tvg-name="The X-Files" tvg-logo="https://images.pluto.tv/channels/6913e381b6bf26bb6e798c13/colorLogoPNG_1767310653556.png" group-title="Sci-Fi & Fantasy",The X-Files
 https://jmp2.uk/plu-6913e381b6bf26bb6e798c13.m3u8
 
-# --- Classic Cable & Sitcoms (99) ---
+# --- Classic Cable & Sitcoms (98) ---
 #EXTINF:-1 tvg-id="USBD42000073E" tvg-name="60 Days In by A&E" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD42000073E_20250520T211334SQUARE.png" group-title="Classic Cable & Sitcoms",60 Days In by A&E
 https://jmp2.uk/stvp-USBD42000073E
 #EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="Classic Cable & Sitcoms",A&E
@@ -517,7 +513,7 @@ https://jmp2.uk/plu-5ca671f215a62078d2ec0abf.m3u8
 https://jmp2.uk/stvp-USBC4400002GF
 #EXTINF:-1 tvg-id="" tvg-name="E! East" tvg-logo="https://i.imgur.com/TWFDkap.png" group-title="Classic Cable & Sitcoms",E! East
 http://23.237.104.106:8080/USA_E/index.m3u8
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-645e328e3ea1d2d705ef8ab2" tvg-name="E! Keeping Up" tvg-logo="https://i.imgur.com/9F7VYDM.png" group-title="Classic Cable & Sitcoms",E! Keeping Up
+#EXTINF:-1 tvg-id="4f05781ce64f5b25a42a10c70853312a" tvg-name="E! Keeping Up" tvg-logo="https://i.imgur.com/9F7VYDM.png" group-title="Classic Cable & Sitcoms",E! Keeping Up
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-645e328e3ea1d2d705ef8ab2/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
 #EXTINF:-1 tvg-id="643f03b9d8436e0008edf021" tvg-name="Family Feud Classic" tvg-logo="https://images.pluto.tv/channels/643f03b9d8436e0008edf021/colorLogoPNG.png" group-title="Classic Cable & Sitcoms",Family Feud Classic
 https://jmp2.uk/plu-643f03b9d8436e0008edf021.m3u8
@@ -525,9 +521,7 @@ https://jmp2.uk/plu-643f03b9d8436e0008edf021.m3u8
 https://jmp2.uk/rok-22d9d1cb36e855a2b40ba752313a50d9.m3u8
 #EXTINF:-1 tvg-id="66ba495ffe11e5000881f049" tvg-name="Frasier" tvg-logo="https://images.pluto.tv/channels/66ba495ffe11e5000881f049/colorLogoPNG_1782142982491.png" group-title="Classic Cable & Sitcoms",Frasier
 https://jmp2.uk/plu-66ba495ffe11e5000881f049.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="Classic Cable & Sitcoms",FX
-https://tvsen7.aynascope.net/fx/index.m3u8
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-5eea605574085f0040ddc782" tvg-name="Game Show Central" tvg-logo="https://i.imgur.com/Uuc5h1s.png" group-title="Classic Cable & Sitcoms",Game Show Central
+#EXTINF:-1 tvg-id="b89f979c548a5576a27bbe515c906814" tvg-name="Game Show Central" tvg-logo="https://i.imgur.com/Uuc5h1s.png" group-title="Classic Cable & Sitcoms",Game Show Central
 https://jmp2.uk/plu-5e54187aae660e00093561d6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Game Show Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/960px-Game_Show_Network_2018.svg.png" group-title="Classic Cable & Sitcoms",Game Show Network
 https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
@@ -601,7 +595,7 @@ https://jmp2.uk/plu-6887aaade3703b7d42b64be8.m3u8
 https://aegis-cloudfront-1.tubi.video/57c1fa3c-566b-4998-b6de-d6de67031d99/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="Classic Cable & Sitcoms",TNT West
 https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="5d40bebc5e3d2750a2239d7e" tvg-name="TV Land Drama" tvg-logo="https://i.imgur.com/y1rXIAS.png" group-title="Classic Cable & Sitcoms",TV Land Drama
+#EXTINF:-1 tvg-id="df060784c402175739d219b5952838ca" tvg-name="TV Land Drama" tvg-logo="https://i.imgur.com/y1rXIAS.png" group-title="Classic Cable & Sitcoms",TV Land Drama
 https://jmp2.uk/plu-5d40bebc5e3d2750a2239d7e.m3u8
 #EXTINF:-1 tvg-id="e287c5c667c39fa5025b362a93ea09b1" tvg-name="TV Land Sitcoms" tvg-logo="https://i.imgur.com/phHHs7l.png" group-title="Classic Cable & Sitcoms",TV Land Sitcoms
 https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8
