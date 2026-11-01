@@ -1,0 +1,2 @@
+[2026-11-01 10:25:05] total=307 dead=1 replaced=0 quarantined=1
+  QUARANTINED [US News & Weather] Fox News Channel  https://tvsen6.aynaott.com/foxnews/index.m3u8
