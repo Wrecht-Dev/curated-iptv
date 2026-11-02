@@ -1,0 +1,2 @@
+[2026-11-02 10:43:20] total=306 dead=1 replaced=0 quarantined=1
+  QUARANTINED [Classic Cable & Sitcoms] Pluto TV Halloween  https://jmp2.uk/plu-6ab165fdeae99d62d7e541ff.m3u8
