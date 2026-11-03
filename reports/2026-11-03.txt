@@ -1,0 +1,4 @@
+[2026-11-03 10:43:01] total=305 dead=1 replaced=1 quarantined=0
+  REPLACED CBS News Chicago
+    old: https://jmp2.uk/plu-62cdc75b1a1cbd0007ed45dc.m3u8
+    new: https://jmp2.uk/plu-5eb1aeb2fd4b8a00076c2047.m3u8 (match 100%)
