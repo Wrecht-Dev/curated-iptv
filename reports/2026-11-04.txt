@@ -1,0 +1,10 @@
+[2026-11-04 10:56:15] total=305 dead=9 replaced=0 quarantined=9
+  QUARANTINED [Cartoons & Kids] Nickelodeon  http://198.58.104.90:8989/nickelodeon/index.m3u8
+  QUARANTINED [US News & Weather] Atlanta News First  https://jmp2.uk/rok-1672824c4fd55e5dbfcb57f147910270.m3u8
+  QUARANTINED [History & Docs] Animal Planet  http://23.239.31.26:8989/animalplanet/index.m3u8
+  QUARANTINED [History & Docs] BBC America  http://23.239.31.26:8989/bbcamerica/index.m3u8
+  QUARANTINED [History & Docs] National Geographic HD East  http://198.58.104.90:8989/natgeo/index.m3u8
+  QUARANTINED [History & Docs] National Geographic Wild HD East  http://198.58.104.90:8989/natgeowild/index.m3u8
+  QUARANTINED [Classic Cable & Sitcoms] A&E  http://23.239.31.26:8989/aande/index.m3u8
+  QUARANTINED [Classic Cable & Sitcoms] AMC  http://23.239.31.26:8989/amc/index.m3u8
+  QUARANTINED [Classic Cable & Sitcoms] Halloween Vibes  https://jmp2.uk/stvp-US3100004DB
