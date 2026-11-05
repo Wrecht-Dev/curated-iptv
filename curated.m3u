@@ -91,7 +91,7 @@ http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
 
 # --- True Crime (44) ---
-#EXTINF:-1 tvg-id="0455f88e83625b3c8c302db0c30fe01e" tvg-name="A&E Crime 360" tvg-logo="https://provider-static.plex.tv/epg/cms/production/06c3d1f2-d57d-438d-a589-049a07abc5a0/AE_Crime_360_color_WHT_TXT.png" group-title="True Crime",A&E Crime 360
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-5f74cf7effbe690040689f41" tvg-name="A&E Crime 360" tvg-logo="https://provider-static.plex.tv/epg/cms/production/06c3d1f2-d57d-438d-a589-049a07abc5a0/AE_Crime_360_color_WHT_TXT.png" group-title="True Crime",A&E Crime 360
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-5f74cf7effbe690040689f41/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
 #EXTINF:-1 tvg-id="7390ae841de55137a5736a3750ec446e" tvg-name="American Crimes" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5b694d82-7b61-49a2-a28e-95b07d8105ac/american-crimes-fclogo-White.png" group-title="True Crime",American Crimes
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6467891c73e5e029428f0e16/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
@@ -345,11 +345,11 @@ https://jmp2.uk/stvp-USBD1200009JI
 https://lds-timeline-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="USBC39000204J" tvg-name="Military Heroes" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC39000204J_20260528T041536SQUARE.png" group-title="History & Docs",Military Heroes
 https://jmp2.uk/stvp-USBC39000204J
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-63ec15d6290593c3fc279f4a" tvg-name="Military Heroes Presented By History" tvg-logo="https://provider-static.plex.tv/epg/cms/production/45a16f23-86c2-4853-bcb6-c462b96d7959/MilitaryHeroes-Channel-Logo-_Light_-1500x1000px.png" group-title="History & Docs",Military Heroes Presented By History
+#EXTINF:-1 tvg-id="8c1a7b2ad899502ca548774ecafaa480" tvg-name="Military Heroes Presented By History" tvg-logo="https://provider-static.plex.tv/epg/cms/production/45a16f23-86c2-4853-bcb6-c462b96d7959/MilitaryHeroes-Channel-Logo-_Light_-1500x1000px.png" group-title="History & Docs",Military Heroes Presented By History
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-63ec15d6290593c3fc279f4a/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
 #EXTINF:-1 tvg-id="" tvg-name="Military History" tvg-logo="https://i.imgur.com/S1SnpoA.png" group-title="History & Docs",Military History
 https://frndly.keralive.workers.dev/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/militaryhistory_live_nr/ab44a8245afe413db1169317ee5cda08/index.m3u8?type=ae2
-#EXTINF:-1 tvg-id="cd2b8b03da52da0868e63927b54f9e7e" tvg-name="Modern Innovations by History" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7fd8ebf6-610f-472c-b2ce-1dc327122ef7/Modern_Innovations_by_History_General_Market_Launch_Channel_logo_color_RDX.png" group-title="History & Docs",Modern Innovations by History
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-67ae8ad1a9b2dfa7f83e17d6" tvg-name="Modern Innovations by History" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7fd8ebf6-610f-472c-b2ce-1dc327122ef7/Modern_Innovations_by_History_General_Market_Launch_Channel_logo_color_RDX.png" group-title="History & Docs",Modern Innovations by History
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-67ae8ad1a9b2dfa7f83e17d6/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-63c97da7187b3c9f3581fdfd" tvg-name="Modern Marvels by History" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aaf9646c-8418-4756-af50-9bd7eac5ef28/Modern_Marvels_logo_wht_text_color.png" group-title="History & Docs",Modern Marvels by History
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-63c97da7187b3c9f3581fdfd/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
