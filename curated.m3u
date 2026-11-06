@@ -161,7 +161,7 @@ https://jmp2.uk/plu-5f4d8594eb979c0007706de7.m3u8
 https://jmp2.uk/plu-5812be1c249444e05d09cc50.m3u8
 #EXTINF:-1 tvg-id="cc72c25b76295e07862192d21bbff05b" tvg-name="Real Crime" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b0d345b3-05d6-41d2-82b1-0bfdd351312a/Real_Crime_Logo_White_-_Simon_Tuquabordx2.png" group-title="True Crime",Real Crime
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-636d9d2d4ea1109a7d205a70/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
-#EXTINF:-1 tvg-id="8abbea29b86a5a5da299c7ef2e288cab" tvg-name="REELZ Famous and Infamous" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8bcf761d-cf7d-4ee5-84f8-985dcef2cf78/REELZ_Famous_Infamous_1500x1000_Logo_Light_-_Kenneth_Kirtley.png" group-title="True Crime",REELZ Famous and Infamous
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-64f0d3ddc2bc9b9001d46ea4" tvg-name="REELZ Famous and Infamous" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8bcf761d-cf7d-4ee5-84f8-985dcef2cf78/REELZ_Famous_Infamous_1500x1000_Logo_Light_-_Kenneth_Kirtley.png" group-title="True Crime",REELZ Famous and Infamous
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-64f0d3ddc2bc9b9001d46ea4/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-67cbd471cc5136329877e098" tvg-name="The New Detectives" tvg-logo="https://images.pluto.tv/channels/62bdabbc5611f2000761ca30/colorLogoPNG.png" group-title="True Crime",The New Detectives
 https://jmp2.uk/plu-5aea40b35126c2157123aa64.m3u8
@@ -311,7 +311,7 @@ https://jmp2.uk/rok-d53b1fb8c41f574387cde82d084515ea.m3u8
 https://jmp2.uk/stvp-USBD27000156I
 #EXTINF:-1 tvg-id="USBD3500041ZF" tvg-name="American Pickers by History" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500041ZF_20261016T224622SQUARE.png" group-title="History & Docs",American Pickers by History
 https://jmp2.uk/stvp-USBD3500041ZF
-#EXTINF:-1 tvg-id="6565413e4261ca0008215320" tvg-name="American Pickers Plus by History" tvg-logo="https://images.pluto.tv/channels/6565413e4261ca0008215320/colorLogoPNG_1792511758070.png" group-title="History & Docs",American Pickers Plus by History
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6ae284312db2c23c6e881095" tvg-name="American Pickers Plus by History" tvg-logo="https://images.pluto.tv/channels/6565413e4261ca0008215320/colorLogoPNG_1792511758070.png" group-title="History & Docs",American Pickers Plus by History
 https://jmp2.uk/plu-6565413e4261ca0008215320.m3u8
 #EXTINF:-1 tvg-id="b14c3ee8314b54dd916011298b4958b0" tvg-name="Antiques Roadshow UK" tvg-logo="https://i.imgur.com/rKWLv48.png" group-title="History & Docs",Antiques Roadshow UK
 https://bbc-antiquesroadshowuk-1-us.roku.wurl.tv/playlist.m3u8
@@ -349,7 +349,7 @@ https://jmp2.uk/stvp-USBC39000204J
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-63ec15d6290593c3fc279f4a/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
 #EXTINF:-1 tvg-id="" tvg-name="Military History" tvg-logo="https://i.imgur.com/S1SnpoA.png" group-title="History & Docs",Military History
 https://frndly.keralive.workers.dev/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/militaryhistory_live_nr/ab44a8245afe413db1169317ee5cda08/index.m3u8?type=ae2
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-67ae8ad1a9b2dfa7f83e17d6" tvg-name="Modern Innovations by History" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7fd8ebf6-610f-472c-b2ce-1dc327122ef7/Modern_Innovations_by_History_General_Market_Launch_Channel_logo_color_RDX.png" group-title="History & Docs",Modern Innovations by History
+#EXTINF:-1 tvg-id="cd2b8b03da52da0868e63927b54f9e7e" tvg-name="Modern Innovations by History" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7fd8ebf6-610f-472c-b2ce-1dc327122ef7/Modern_Innovations_by_History_General_Market_Launch_Channel_logo_color_RDX.png" group-title="History & Docs",Modern Innovations by History
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-67ae8ad1a9b2dfa7f83e17d6/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-63c97da7187b3c9f3581fdfd" tvg-name="Modern Marvels by History" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aaf9646c-8418-4756-af50-9bd7eac5ef28/Modern_Marvels_logo_wht_text_color.png" group-title="History & Docs",Modern Marvels by History
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-63c97da7187b3c9f3581fdfd/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
@@ -357,7 +357,7 @@ https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-63c97da7187b
 https://jmp2.uk/stvp-USBB5200025DO
 #EXTINF:-1 tvg-id="US300003S3" tvg-name="Pawn Stars" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300003S3_20261023T182425SQUARE.png" group-title="History & Docs",Pawn Stars
 https://jmp2.uk/stvp-US300003S3
-#EXTINF:-1 tvg-id="6aab1f18c349e6a78bb489ad" tvg-name="Pawn Stars Plus by History" tvg-logo="https://images.pluto.tv/channels/6aab1f18c349e6a78bb489ad/colorLogoPNG_1790808022808.png" group-title="History & Docs",Pawn Stars Plus by History
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6ae282fe73700d3e4f499bf3" tvg-name="Pawn Stars Plus by History" tvg-logo="https://images.pluto.tv/channels/6aab1f18c349e6a78bb489ad/colorLogoPNG_1790808022808.png" group-title="History & Docs",Pawn Stars Plus by History
 https://jmp2.uk/plu-6aab1f18c349e6a78bb489ad.m3u8
 #EXTINF:-1 tvg-id="856fca464da0544784204ba8f6161dac" tvg-name="PBS Antiques Roadshow" tvg-logo="https://i.imgur.com/U9CYaok.png" group-title="History & Docs",PBS Antiques Roadshow
 https://amg00953-pbsusa-antiroadshow-xumo-x6ud5.amagi.tv/playlist.m3u8
@@ -414,7 +414,7 @@ https://jmp2.uk/plu-67352ed93a61d4000881f9fa.m3u8
 #EXTINF:-1 tvg-id="6913e381b6bf26bb6e798c13" tvg-name="The X-Files" tvg-logo="https://images.pluto.tv/channels/6913e381b6bf26bb6e798c13/colorLogoPNG_1767310653556.png" group-title="Sci-Fi & Fantasy",The X-Files
 https://jmp2.uk/plu-6913e381b6bf26bb6e798c13.m3u8
 
-# --- Classic Cable & Sitcoms (94) ---
+# --- Classic Cable & Sitcoms (92) ---
 #EXTINF:-1 tvg-id="USBD42000073E" tvg-name="60 Days In by A&E" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD42000073E_20250520T211334SQUARE.png" group-title="Classic Cable & Sitcoms",60 Days In by A&E
 https://jmp2.uk/stvp-USBD42000073E
 #EXTINF:-1 tvg-id="62e84238f51a6b78c3883fbfdfb0cdb0" tvg-name="A&E Live PD: Greatest Shifts" tvg-logo="https://images.pluto.tv/channels/6aab1ec6f2eaa8924745678e/colorLogoPNG_1790808102594.png" group-title="Classic Cable & Sitcoms",A&E Live PD: Greatest Shifts
@@ -453,8 +453,6 @@ https://jmp2.uk/plu-663946c1b18d700008d9c168.m3u8
 https://jmp2.uk/plu-686d61503484d6073283059d.m3u8
 #EXTINF:-1 tvg-id="68e9913c4a666b9054849832" tvg-name="Bonanza" tvg-logo="https://images.pluto.tv/channels/696e647b07ea70192d49f6a5/colorLogoPNG_1768842647658.png" group-title="Classic Cable & Sitcoms",Bonanza
 https://jmp2.uk/plu-68e9913c4a666b9054849832.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bravo" tvg-logo="https://i.imgur.com/JmTIRLF.png" group-title="Classic Cable & Sitcoms",Bravo
-http://41.205.93.154/BRAVO/index.m3u8
 #EXTINF:-1 tvg-id="US2100006EH" tvg-name="Challenge Accepted" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2100006EH_20260528T041503SQUARE.png" group-title="Classic Cable & Sitcoms",Challenge Accepted
 https://jmp2.uk/stvp-US2100006EH
 #EXTINF:-1 tvg-id="6a28827ef4a627f3b07df1ea" tvg-name="Cheers" tvg-logo="https://images.pluto.tv/channels/6a28827ef4a627f3b07df1ea/colorLogoPNG_1781731467139.png" group-title="Classic Cable & Sitcoms",Cheers
@@ -495,7 +493,7 @@ https://jmp2.uk/plu-5ca671f215a62078d2ec0abf.m3u8
 https://jmp2.uk/stvp-USBC4400002GF
 #EXTINF:-1 tvg-id="" tvg-name="E! East" tvg-logo="https://i.imgur.com/TWFDkap.png" group-title="Classic Cable & Sitcoms",E! East
 http://23.237.104.106:8080/USA_E/index.m3u8
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-645e328e3ea1d2d705ef8ab2" tvg-name="E! Keeping Up" tvg-logo="https://i.imgur.com/9F7VYDM.png" group-title="Classic Cable & Sitcoms",E! Keeping Up
+#EXTINF:-1 tvg-id="4f05781ce64f5b25a42a10c70853312a" tvg-name="E! Keeping Up" tvg-logo="https://i.imgur.com/9F7VYDM.png" group-title="Classic Cable & Sitcoms",E! Keeping Up
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-645e328e3ea1d2d705ef8ab2/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
 #EXTINF:-1 tvg-id="643f03b9d8436e0008edf021" tvg-name="Family Feud Classic" tvg-logo="https://images.pluto.tv/channels/643f03b9d8436e0008edf021/colorLogoPNG.png" group-title="Classic Cable & Sitcoms",Family Feud Classic
 https://jmp2.uk/plu-643f03b9d8436e0008edf021.m3u8
@@ -515,8 +513,6 @@ https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8
 https://jmp2.uk/plu-60f75771dfc72a00071fd0e0.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6244cf3c742b0d58cd4f2514" tvg-name="Hallmark Movies and More" tvg-logo="https://provider-static.plex.tv/epg/cms/production/29af70d1-d3ba-4a16-bc4d-bd99e7e7def4/hallmark-movies-and-more_color.png" group-title="Classic Cable & Sitcoms",Hallmark Movies and More
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
-#EXTINF:-1 tvg-id="" tvg-name="Hallmark Mystery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Hallmark_Mystery_2024.svg" group-title="Classic Cable & Sitcoms",Hallmark Mystery
-http://41.205.93.154/HALLMARK/index.m3u8
 #EXTINF:-1 tvg-id="5f7794162a4559000781fc12" tvg-name="Happy Days" tvg-logo="https://images.pluto.tv/channels/62e917b5e354cf0007b97a67/colorLogoPNG.png" group-title="Classic Cable & Sitcoms",Happy Days
 https://jmp2.uk/plu-5f7794162a4559000781fc12.m3u8
 #EXTINF:-1 tvg-id="USBD4200009Y4" tvg-name="Hoarders by A&E" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD4200009Y4_20250805T005802SQUARE.png" group-title="Classic Cable & Sitcoms",Hoarders by A&E

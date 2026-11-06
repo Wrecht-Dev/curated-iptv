@@ -1,0 +1,3 @@
+[2026-11-06 10:49:34] total=296 dead=2 replaced=0 quarantined=2
+  QUARANTINED [Classic Cable & Sitcoms] Bravo  http://41.205.93.154/BRAVO/index.m3u8
+  QUARANTINED [Classic Cable & Sitcoms] Hallmark Mystery  http://41.205.93.154/HALLMARK/index.m3u8
