@@ -1,0 +1,9 @@
+[2026-11-09 10:42:39] total=293 dead=6 replaced=1 quarantined=5
+  REPLACED TVS Classic Movies
+    old: https://rpn.bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8
+    new: https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8 (match 88%)
+  QUARANTINED [Cartoons & Kids] Maxcine Kids  https://live20.bozztv.com/giatvplayout7/giatv-209909/playlist.m3u8
+  QUARANTINED [Cartoons & Kids] Tom And Jerry  https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+  QUARANTINED [History & Docs] Military History  https://frndly.keralive.workers.dev/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/militaryhistory_live_nr/ab44a8245afe413db1169317ee5cda08/index.m3u8?type=ae2
+  QUARANTINED [History & Docs] TVS Hollywood History  https://rpn.bozztv.com/gusa/gusa-tvshollywoohistory/index.m3u8
+  QUARANTINED [Classic Cable & Sitcoms] TVS Western Movie  https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8
