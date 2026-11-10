@@ -1,0 +1,2 @@
+[2026-11-10 10:42:13] total=288 dead=1 replaced=0 quarantined=1
+  QUARANTINED [Classic Cable & Sitcoms] TVS Classic Movies  https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8

@@ -23,7 +23,7 @@ http://89.187.179.148:826/1368/gXwiagaXda/1672
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6449369eb3ff17382cae5819/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6449369eb3ff17382cae57ff" tvg-name="FilmRise Kids" tvg-logo="https://provider-static.plex.tv/epg/cms/production/af1f69a0-3453-437e-afcb-d4403d0ff213/FilmRise_Kids_1500x1000_Dark_Logo.png" group-title="Cartoons & Kids",FilmRise Kids
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6449369eb3ff17382cae57ff/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
-#EXTINF:-1 tvg-id="56171fafada51f8004c4b40f" tvg-name="Forever Kids" tvg-logo="https://i.imgur.com/deeQqYZ.png" group-title="Cartoons & Kids",Forever Kids
+#EXTINF:-1 tvg-id="" tvg-name="Forever Kids" tvg-logo="https://i.imgur.com/deeQqYZ.png" group-title="Cartoons & Kids",Forever Kids
 https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-69153a4be449c6fdde65a65d" tvg-name="Hasbro Legends" tvg-logo="https://i.imgur.com/JDM9rEV.png" group-title="Cartoons & Kids",Hasbro Legends
 https://amg02713-amg02713c11-amgplt0852.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg02713-amg02713c11-amgplt0852/playlist.m3u8
@@ -101,9 +101,9 @@ https://jmp2.uk/plu-61325c4f982acd000723287e.m3u8
 https://aegis-cloudfront-1.tubi.video/1e764712-0649-4946-bd7e-f1bbba3be6fa/playlist.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-63f693a3fff2b53dc9ddc8f4" tvg-name="Cold Case Files by A&E" tvg-logo="https://provider-static.plex.tv/epg/cms/production/66923850-2832-4970-95b5-6a755af11420/Cold_Case_Files_channel_logo_4c_1500x1000.png" group-title="True Crime",Cold Case Files by A&E
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-63f693a3fff2b53dc9ddc8f4/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
-#EXTINF:-1 tvg-id="bf4508c9597e5f618e508ae00b01f66f" tvg-name="Court TV" tvg-logo="https://i.imgur.com/jOKA735.png" group-title="True Crime",Court TV
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6245d867ddf1ba983d5b8bf8" tvg-name="Court TV" tvg-logo="https://i.imgur.com/jOKA735.png" group-title="True Crime",Court TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
-#EXTINF:-1 tvg-id="586bd3d19f6e4b7a5cf3458722984b82" tvg-name="Court TV Legendary Trials" tvg-logo="https://provider-static.plex.tv/4/epg/channels/logos/gracenote/44b8c938b34238f227a4030123f8dfcf.png" group-title="True Crime",Court TV Legendary Trials
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-648095ad190e97d15c3470e9" tvg-name="Court TV Legendary Trials" tvg-logo="https://provider-static.plex.tv/4/epg/channels/logos/gracenote/44b8c938b34238f227a4030123f8dfcf.png" group-title="True Crime",Court TV Legendary Trials
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-648095ad190e97d15c3470e9/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
 #EXTINF:-1 tvg-id="" tvg-name="Crime + Investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg" group-title="True Crime",Crime + Investigation
 http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8
@@ -123,7 +123,7 @@ https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-63c97b45187b
 https://jmp2.uk/stvp-USBB36000040M
 #EXTINF:-1 tvg-id="" tvg-name="Crimenes Imperfectos" tvg-logo="https://i.imgur.com/kzUrWR5.png" group-title="True Crime",Crimenes Imperfectos
 https://jmp2.uk/plu-5e94cd036cc69d0007e8a1ba.m3u8
-#EXTINF:-1 tvg-id="14fafce34e4d5af99db4141edb1db371" tvg-name="Crimes Cults Killers" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7804cef1-a12c-4af6-a6c2-12dc54041980/LG_Crimes_Cults_Killers_STACKED_Color_Logo_1500x1000RDX.png" group-title="True Crime",Crimes Cults Killers
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-63c97410187b3c9f3581fdf4" tvg-name="Crimes Cults Killers" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7804cef1-a12c-4af6-a6c2-12dc54041980/LG_Crimes_Cults_Killers_STACKED_Color_Logo_1500x1000RDX.png" group-title="True Crime",Crimes Cults Killers
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-63c97410187b3c9f3581fdf4/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
 #EXTINF:-1 tvg-id="6a2b0eab9465b98649cd0d2f" tvg-name="Diagnosis Murder" tvg-logo="https://images.pluto.tv/channels/6a2b0eab9465b98649cd0d2f/colorLogoPNG_1782946685197.png" group-title="True Crime",Diagnosis Murder
 https://jmp2.uk/plu-6a2b0eab9465b98649cd0d2f.m3u8
@@ -133,7 +133,7 @@ https://pb-x9qsxrudiq9d2.akamaized.net/webvtt/v1/18584c3f3a2a4df8/88886014/maste
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-646e489b58898bf3be94b325/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6449369f243fbe342a9c0b4d" tvg-name="Forensic Files" tvg-logo="https://i.imgur.com/V5vvuLK.png" group-title="True Crime",Forensic Files
 https://jmp2.uk/plu-62e92392a3e6270007f562e8.m3u8
-#EXTINF:-1 tvg-id="16f751e2330d5a09a5e1a25a52b2b09c" tvg-name="Ion Mystery" tvg-logo="https://provider-static.plex.tv/1/epg/channels/logos/gracenote/1247cd5fa3876d1c486559e0460b300b.png" group-title="True Crime",Ion Mystery
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-62b45f15b4508e0eedacdf26" tvg-name="Ion Mystery" tvg-logo="https://provider-static.plex.tv/1/epg/channels/logos/gracenote/1247cd5fa3876d1c486559e0460b300b.png" group-title="True Crime",Ion Mystery
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-62b45f15b4508e0eedacdf26/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
 #EXTINF:-1 tvg-id="004bc9ca41ae0ffb848a75f33b34ad4a" tvg-name="Kelsi Davies: Paranormal Investigations" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/004bc9ca41ae0ffb848a75f33b34ad4a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1787162259025_kelsi_davies_logo_hud.png" group-title="True Crime",Kelsi Davies: Paranormal Investigations
 https://jmp2.uk/rok-004bc9ca41ae0ffb848a75f33b34ad4a.m3u8
@@ -197,11 +197,11 @@ https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2
 http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-68fafc6e558214386ab7ca3a" tvg-name="Bloomberg TV+" tvg-logo="https://images.pluto.tv/channels/54ff7ba69222cb1c2624c584/colorLogoPNG_1756948295813.png" group-title="US News & Weather",Bloomberg TV+
 https://jmp2.uk/plu-54ff7ba69222cb1c2624c584.m3u8
-#EXTINF:-1 tvg-id="8db0f9f4abf6542ba95f97a545f98513" tvg-name="CBC News" tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/d300a0c0dd6ffb82aca554ff87e8a364.png" group-title="US News & Weather",CBC News
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-64c91830ea7db2f52688c52c" tvg-name="CBC News" tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/d300a0c0dd6ffb82aca554ff87e8a364.png" group-title="US News & Weather",CBC News
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-64c91830ea7db2f52688c52c/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
 #EXTINF:-1 tvg-id="" tvg-name="CBN News" tvg-logo="https://i.imgur.com/9f9YMsA.png" group-title="US News & Weather",CBN News
 https://fastly.live.brightcove.com/6380396819112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk2ODE5MTEyIn0.GDYp4IWtzwPkupEWeeOavnioVknO-Ev3UGlHvM1rE6I/playlist-hls.m3u8
-#EXTINF:-1 tvg-id="70881c73b6275623ace6c5c3603a339c" tvg-name="CBS News 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/960px-CBS_News_247_logo.svg.png" group-title="US News & Weather",CBS News 24/7
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6571f43a1d2aae780d597196" tvg-name="CBS News 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/960px-CBS_News_247_logo.svg.png" group-title="US News & Weather",CBS News 24/7
 https://jmp2.uk/plu-6350fdd266e9ea0007bedec5.m3u8
 #EXTINF:-1 tvg-id="a3b212829dd85675bf997edc25a40a73" tvg-name="CBS News Baltimore" tvg-logo="https://i.imgur.com/jy3UfCe.png" group-title="US News & Weather",CBS News Baltimore
 https://lineup.cbsivideo.com/playout/8877a7d5-b094-4ac8-bc72-75a5fed68e5b/index.m3u8
@@ -221,7 +221,7 @@ https://jmp2.uk/plu-5dc9b875e280c80009a8a44a.m3u8
 https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8
 #EXTINF:-1 tvg-id="fa83022cd5f654938a558ec37b93d752" tvg-name="CBS News Minnesota" tvg-logo="https://i.imgur.com/ubxwfMY.png" group-title="US News & Weather",CBS News Minnesota
 https://jmp2.uk/plu-5eb1b0bf2240d8000732a09c.m3u8
-#EXTINF:-1 tvg-id="41d5a59655975c379aff0ea4c729313e" tvg-name="CBS News New York" tvg-logo="https://i.imgur.com/bpc4v0u.png" group-title="US News & Weather",CBS News New York
+#EXTINF:-1 tvg-id="5dc9b8223687ff000936ed79" tvg-name="CBS News New York" tvg-logo="https://i.imgur.com/bpc4v0u.png" group-title="US News & Weather",CBS News New York
 https://jmp2.uk/plu-5dc9b8223687ff000936ed79.m3u8
 #EXTINF:-1 tvg-id="78a1b45133495e54a0a1377b8e828789" tvg-name="CBS News Philadelphia" tvg-logo="https://images.pluto.tv/channels/5eb1b05ea168cc000767ba67/colorLogoPNG.png" group-title="US News & Weather",CBS News Philadelphia
 https://jmp2.uk/plu-5eb1b05ea168cc000767ba67.m3u8
@@ -249,7 +249,7 @@ https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-60089d90f682
 https://jmp2.uk/rok-dafd06b712a35fbe9935d4c04c2e8b53.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox News Radio" tvg-logo="https://radio.foxnews.com/wp-content/uploads/2017/10/default_logo-150x150.png" group-title="US News & Weather",Fox News Radio
 https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6351b29cb940534786b2ec17" tvg-name="Fox Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/960px-Fox_Weather_logo.svg.png" group-title="US News & Weather",Fox Weather
+#EXTINF:-1 tvg-id="0838d5ccb1d5564d98fb804ab314c85e" tvg-name="Fox Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/960px-Fox_Weather_logo.svg.png" group-title="US News & Weather",Fox Weather
 https://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-678fe7959407a53556d3e8eb" tvg-name="FRANCE 24" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d5065d4c-eb84-4fd6-862f-655ff5ca01cd/france24fastenglish_logo_dark_-_David_COURET.png" group-title="US News & Weather",FRANCE 24
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-678fe7959407a53556d3e8eb/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
@@ -257,17 +257,17 @@ https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-678fe7959407
 https://jmp2.uk/rok-5c8d77c2f6b85da3a7e74223b769ef5c.m3u8
 #EXTINF:-1 tvg-id="65790cda6e4f6a0008768764" tvg-name="NBC Los Angeles News" tvg-logo="https://images.pluto.tv/channels/65790cda6e4f6a0008768764/colorLogoPNG.png" group-title="US News & Weather",NBC Los Angeles News
 https://jmp2.uk/plu-65790cda6e4f6a0008768764.m3u8
-#EXTINF:-1 tvg-id="b5fe4277ff365ccda0a7d43028d53d90" tvg-name="NBC News NOW" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="US News & Weather",NBC News NOW
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-5fc70600dd53a6002d8f93ca" tvg-name="NBC News NOW" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="US News & Weather",NBC News NOW
 https://d1si3n1st4nkgb.cloudfront.net/10502/88896001/hls/master.m3u8?ads.xumo_channelId=88896001
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-5fc6f3a62b6f7b002e77ffaa" tvg-name="News 12 New York" tvg-logo="https://provider-static.plex.tv/epg/cms/production/07ef54b2-5faf-49d0-a39f-df2775769839/news12ny_logo_dark.png" group-title="US News & Weather",News 12 New York
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-5fc6f3a62b6f7b002e77ffaa/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
-#EXTINF:-1 tvg-id="28844a800a4e54909eec9695aa3762b2" tvg-name="Newsmax 2" tvg-logo="https://i.imgur.com/iE1izWq.png" group-title="US News & Weather",Newsmax 2
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-5fb81660b7ad2d002dcb7335" tvg-name="Newsmax 2" tvg-logo="https://i.imgur.com/iE1izWq.png" group-title="US News & Weather",Newsmax 2
 https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Newsmax Spanish" tvg-logo="https://i.imgur.com/mrXMW7H.png" group-title="US News & Weather",Newsmax Spanish
 https://n1ottesorkatv.akamaized.net/hls/live/2113795/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Newsmax TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/960px-Newsmax_logo.svg.png" group-title="US News & Weather",Newsmax TV
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
-#EXTINF:-1 tvg-id="28844a800a4e54909eec9695aa3762b2" tvg-name="Newsmax2" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f3f74374-7cf6-4fdc-8056-7ef9e8eb989b/N2_logo_color.png" group-title="US News & Weather",Newsmax2
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-5fb81660b7ad2d002dcb7335" tvg-name="Newsmax2" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f3f74374-7cf6-4fdc-8056-7ef9e8eb989b/N2_logo_color.png" group-title="US News & Weather",Newsmax2
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-5fb81660b7ad2d002dcb7335/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
 #EXTINF:-1 tvg-id="" tvg-name="Newsy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Newsy_2021.svg/960px-Newsy_2021.svg.png" group-title="US News & Weather",Newsy
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
@@ -279,7 +279,7 @@ http://23.237.104.106:8080/USA_OAN/index.m3u8
 https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="db6c45e4d0c856d9a88f76bf5ac6db26" tvg-name="Salem News Channel" tvg-logo="https://i.imgur.com/aDbc64y.png" group-title="US News & Weather",Salem News Channel
 https://amg00732-salemmediagroup-snc-ono-ekp8j.amagi.tv/playlist/amg00732-salemmediagroup-snc-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-5fc705dda2236e002d69f211" tvg-name="Scripps News" tvg-logo="https://i.imgur.com/W0Jvi5o.png" group-title="US News & Weather",Scripps News
+#EXTINF:-1 tvg-id="d3f36d4a35fa5f40a24b96a51556b9b5" tvg-name="Scripps News" tvg-logo="https://i.imgur.com/W0Jvi5o.png" group-title="US News & Weather",Scripps News
 https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist.m3u8
 #EXTINF:-1 tvg-id="989feef9c39a5d41a7e88bd5d54f38b9" tvg-name="Sky News" tvg-logo="https://images.pluto.tv/channels/55b285cd2665de274553d66f/colorLogoPNG.png" group-title="US News & Weather",Sky News
 https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8
@@ -341,7 +341,7 @@ https://jmp2.uk/stvp-USBD1200009JI
 https://lds-timeline-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="USBC39000204J" tvg-name="Military Heroes" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC39000204J_20260528T041536SQUARE.png" group-title="History & Docs",Military Heroes
 https://jmp2.uk/stvp-USBC39000204J
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-63ec15d6290593c3fc279f4a" tvg-name="Military Heroes Presented By History" tvg-logo="https://provider-static.plex.tv/epg/cms/production/45a16f23-86c2-4853-bcb6-c462b96d7959/MilitaryHeroes-Channel-Logo-_Light_-1500x1000px.png" group-title="History & Docs",Military Heroes Presented By History
+#EXTINF:-1 tvg-id="8c1a7b2ad899502ca548774ecafaa480" tvg-name="Military Heroes Presented By History" tvg-logo="https://provider-static.plex.tv/epg/cms/production/45a16f23-86c2-4853-bcb6-c462b96d7959/MilitaryHeroes-Channel-Logo-_Light_-1500x1000px.png" group-title="History & Docs",Military Heroes Presented By History
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-63ec15d6290593c3fc279f4a/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
 #EXTINF:-1 tvg-id="cd2b8b03da52da0868e63927b54f9e7e" tvg-name="Modern Innovations by History" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7fd8ebf6-610f-472c-b2ce-1dc327122ef7/Modern_Innovations_by_History_General_Market_Launch_Channel_logo_color_RDX.png" group-title="History & Docs",Modern Innovations by History
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-67ae8ad1a9b2dfa7f83e17d6/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
@@ -353,7 +353,7 @@ https://jmp2.uk/stvp-USBB5200025DO
 https://jmp2.uk/stvp-US300003S3
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6ae282fe73700d3e4f499bf3" tvg-name="Pawn Stars Plus by History" tvg-logo="https://images.pluto.tv/channels/6aab1f18c349e6a78bb489ad/colorLogoPNG_1790808022808.png" group-title="History & Docs",Pawn Stars Plus by History
 https://jmp2.uk/plu-6aab1f18c349e6a78bb489ad.m3u8
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6348ac7090b96ef5e0eb3288" tvg-name="PBS Antiques Roadshow" tvg-logo="https://i.imgur.com/U9CYaok.png" group-title="History & Docs",PBS Antiques Roadshow
+#EXTINF:-1 tvg-id="856fca464da0544784204ba8f6161dac" tvg-name="PBS Antiques Roadshow" tvg-logo="https://i.imgur.com/U9CYaok.png" group-title="History & Docs",PBS Antiques Roadshow
 https://amg00953-pbsusa-antiroadshow-xumo-x6ud5.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="5a4d35dfa5c02e717a234f86" tvg-name="Pluto TV History" tvg-logo="https://i.imgur.com/XkQD5kM.png" group-title="History & Docs",Pluto TV History
 https://jmp2.uk/plu-5a4d35dfa5c02e717a234f86.m3u8
@@ -406,7 +406,7 @@ https://jmp2.uk/plu-67352ed93a61d4000881f9fa.m3u8
 #EXTINF:-1 tvg-id="6913e381b6bf26bb6e798c13" tvg-name="The X-Files" tvg-logo="https://images.pluto.tv/channels/6913e381b6bf26bb6e798c13/colorLogoPNG_1767310653556.png" group-title="Sci-Fi & Fantasy",The X-Files
 https://jmp2.uk/plu-6913e381b6bf26bb6e798c13.m3u8
 
-# --- Classic Cable & Sitcoms (90) ---
+# --- Classic Cable & Sitcoms (89) ---
 #EXTINF:-1 tvg-id="USBD42000073E" tvg-name="60 Days In by A&E" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD42000073E_20250520T211334SQUARE.png" group-title="Classic Cable & Sitcoms",60 Days In by A&E
 https://jmp2.uk/stvp-USBD42000073E
 #EXTINF:-1 tvg-id="62e84238f51a6b78c3883fbfdfb0cdb0" tvg-name="A&E Live PD: Greatest Shifts" tvg-logo="https://images.pluto.tv/channels/6aab1ec6f2eaa8924745678e/colorLogoPNG_1790808102594.png" group-title="Classic Cable & Sitcoms",A&E Live PD: Greatest Shifts
@@ -563,8 +563,6 @@ https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_356
 https://jmp2.uk/plu-5d40bebc5e3d2750a2239d7e.m3u8
 #EXTINF:-1 tvg-id="e287c5c667c39fa5025b362a93ea09b1" tvg-name="TV Land Sitcoms" tvg-logo="https://i.imgur.com/phHHs7l.png" group-title="Classic Cable & Sitcoms",TV Land Sitcoms
 https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVS Classic Movies" tvg-logo="https://i.imgur.com/st1xMsw.png" group-title="Classic Cable & Sitcoms",TVS Classic Movies
-https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
 #EXTINF:-1 tvg-id="af7b719197365e69aff9c86f42fa3306" tvg-name="Universal Action" tvg-logo="https://images.pluto.tv/channels/654933e253fc970008390114/colorLogoPNG.png" group-title="Classic Cable & Sitcoms",Universal Action
 https://jmp2.uk/plu-654933e253fc970008390114.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Universal Cinema" tvg-logo="https://i.imgur.com/XxfET68.png" group-title="Classic Cable & Sitcoms",Universal Cinema
