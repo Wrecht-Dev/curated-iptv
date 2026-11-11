@@ -101,9 +101,9 @@ https://jmp2.uk/plu-61325c4f982acd000723287e.m3u8
 https://aegis-cloudfront-1.tubi.video/1e764712-0649-4946-bd7e-f1bbba3be6fa/playlist.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-63f693a3fff2b53dc9ddc8f4" tvg-name="Cold Case Files by A&E" tvg-logo="https://provider-static.plex.tv/epg/cms/production/66923850-2832-4970-95b5-6a755af11420/Cold_Case_Files_channel_logo_4c_1500x1000.png" group-title="True Crime",Cold Case Files by A&E
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-63f693a3fff2b53dc9ddc8f4/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6245d867ddf1ba983d5b8bf8" tvg-name="Court TV" tvg-logo="https://i.imgur.com/jOKA735.png" group-title="True Crime",Court TV
+#EXTINF:-1 tvg-id="bf4508c9597e5f618e508ae00b01f66f" tvg-name="Court TV" tvg-logo="https://i.imgur.com/jOKA735.png" group-title="True Crime",Court TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-648095ad190e97d15c3470e9" tvg-name="Court TV Legendary Trials" tvg-logo="https://provider-static.plex.tv/4/epg/channels/logos/gracenote/44b8c938b34238f227a4030123f8dfcf.png" group-title="True Crime",Court TV Legendary Trials
+#EXTINF:-1 tvg-id="586bd3d19f6e4b7a5cf3458722984b82" tvg-name="Court TV Legendary Trials" tvg-logo="https://provider-static.plex.tv/4/epg/channels/logos/gracenote/44b8c938b34238f227a4030123f8dfcf.png" group-title="True Crime",Court TV Legendary Trials
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-648095ad190e97d15c3470e9/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
 #EXTINF:-1 tvg-id="" tvg-name="Crime + Investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg" group-title="True Crime",Crime + Investigation
 http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8
@@ -123,7 +123,7 @@ https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-63c97b45187b
 https://jmp2.uk/stvp-USBB36000040M
 #EXTINF:-1 tvg-id="" tvg-name="Crimenes Imperfectos" tvg-logo="https://i.imgur.com/kzUrWR5.png" group-title="True Crime",Crimenes Imperfectos
 https://jmp2.uk/plu-5e94cd036cc69d0007e8a1ba.m3u8
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-63c97410187b3c9f3581fdf4" tvg-name="Crimes Cults Killers" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7804cef1-a12c-4af6-a6c2-12dc54041980/LG_Crimes_Cults_Killers_STACKED_Color_Logo_1500x1000RDX.png" group-title="True Crime",Crimes Cults Killers
+#EXTINF:-1 tvg-id="14fafce34e4d5af99db4141edb1db371" tvg-name="Crimes Cults Killers" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7804cef1-a12c-4af6-a6c2-12dc54041980/LG_Crimes_Cults_Killers_STACKED_Color_Logo_1500x1000RDX.png" group-title="True Crime",Crimes Cults Killers
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-63c97410187b3c9f3581fdf4/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
 #EXTINF:-1 tvg-id="6a2b0eab9465b98649cd0d2f" tvg-name="Diagnosis Murder" tvg-logo="https://images.pluto.tv/channels/6a2b0eab9465b98649cd0d2f/colorLogoPNG_1782946685197.png" group-title="True Crime",Diagnosis Murder
 https://jmp2.uk/plu-6a2b0eab9465b98649cd0d2f.m3u8
@@ -176,7 +176,7 @@ https://jmp2.uk/plu-6549341853fc9700083901ac.m3u8
 #EXTINF:-1 tvg-id="4ecf313b40975382b983c183bf7d86f0" tvg-name="Unsolved Mysteries" tvg-logo="https://i.imgur.com/De3khrX.png" group-title="True Crime",Unsolved Mysteries
 https://d31z96rdrmwfsp.cloudfront.net/master.m3u8
 
-# --- US News & Weather (62) ---
+# --- US News & Weather (61) ---
 #EXTINF:-1 tvg-id="483af83e821059b8b3f0825ae2d43e31" tvg-name="ABC News Live" tvg-logo="https://images.pluto.tv/channels/6508be683a0d700008c534e4/colorLogoPNG.png" group-title="US News & Weather",ABC News Live
 https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8
 #EXTINF:-1 tvg-id="f95c40a17cfe5b9fb1970192e378fb0c" tvg-name="AccuWeather NOW" tvg-logo="https://i.imgur.com/M8wbVYK.png" group-title="US News & Weather",AccuWeather NOW
@@ -185,7 +185,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/
 https://jmp2.uk/plu-5e1f7da4bc7d740009831259.m3u8
 #EXTINF:-1 tvg-id="65d92a8c8b24c80008e285c0" tvg-name="BBC News" tvg-logo="https://images.pluto.tv/channels/65d92a8c8b24c80008e285c0/colorLogoPNG.png" group-title="US News & Weather",BBC News
 https://jmp2.uk/plu-65d92a8c8b24c80008e285c0.m3u8
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-646fab0e43d6d6838db81a6a" tvg-name="BBC News (North America)" tvg-logo="https://provider-static.plex.tv/9/epg/channels/logos/gracenote/9ab8e371398307f455d0ca348f835792.png" group-title="US News & Weather",BBC News (North America)
+#EXTINF:-1 tvg-id="6183f9f73a64394cf3c55690605af2a7" tvg-name="BBC News (North America)" tvg-logo="https://provider-static.plex.tv/9/epg/channels/logos/gracenote/9ab8e371398307f455d0ca348f835792.png" group-title="US News & Weather",BBC News (North America)
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-646fab0e43d6d6838db81a6a/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
 #EXTINF:-1 tvg-id="" tvg-name="Black News Channel" tvg-logo="https://i.imgur.com/oX5oR4d.png" group-title="US News & Weather",Black News Channel
 https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8
@@ -197,11 +197,11 @@ https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2
 http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-68fafc6e558214386ab7ca3a" tvg-name="Bloomberg TV+" tvg-logo="https://images.pluto.tv/channels/54ff7ba69222cb1c2624c584/colorLogoPNG_1756948295813.png" group-title="US News & Weather",Bloomberg TV+
 https://jmp2.uk/plu-54ff7ba69222cb1c2624c584.m3u8
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-64c91830ea7db2f52688c52c" tvg-name="CBC News" tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/d300a0c0dd6ffb82aca554ff87e8a364.png" group-title="US News & Weather",CBC News
+#EXTINF:-1 tvg-id="8db0f9f4abf6542ba95f97a545f98513" tvg-name="CBC News" tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/d300a0c0dd6ffb82aca554ff87e8a364.png" group-title="US News & Weather",CBC News
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-64c91830ea7db2f52688c52c/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
 #EXTINF:-1 tvg-id="" tvg-name="CBN News" tvg-logo="https://i.imgur.com/9f9YMsA.png" group-title="US News & Weather",CBN News
 https://fastly.live.brightcove.com/6380396819112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk2ODE5MTEyIn0.GDYp4IWtzwPkupEWeeOavnioVknO-Ev3UGlHvM1rE6I/playlist-hls.m3u8
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6571f43a1d2aae780d597196" tvg-name="CBS News 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/960px-CBS_News_247_logo.svg.png" group-title="US News & Weather",CBS News 24/7
+#EXTINF:-1 tvg-id="70881c73b6275623ace6c5c3603a339c" tvg-name="CBS News 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/960px-CBS_News_247_logo.svg.png" group-title="US News & Weather",CBS News 24/7
 https://jmp2.uk/plu-6350fdd266e9ea0007bedec5.m3u8
 #EXTINF:-1 tvg-id="a3b212829dd85675bf997edc25a40a73" tvg-name="CBS News Baltimore" tvg-logo="https://i.imgur.com/jy3UfCe.png" group-title="US News & Weather",CBS News Baltimore
 https://lineup.cbsivideo.com/playout/8877a7d5-b094-4ac8-bc72-75a5fed68e5b/index.m3u8
@@ -221,7 +221,7 @@ https://jmp2.uk/plu-5dc9b875e280c80009a8a44a.m3u8
 https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8
 #EXTINF:-1 tvg-id="fa83022cd5f654938a558ec37b93d752" tvg-name="CBS News Minnesota" tvg-logo="https://i.imgur.com/ubxwfMY.png" group-title="US News & Weather",CBS News Minnesota
 https://jmp2.uk/plu-5eb1b0bf2240d8000732a09c.m3u8
-#EXTINF:-1 tvg-id="5dc9b8223687ff000936ed79" tvg-name="CBS News New York" tvg-logo="https://i.imgur.com/bpc4v0u.png" group-title="US News & Weather",CBS News New York
+#EXTINF:-1 tvg-id="41d5a59655975c379aff0ea4c729313e" tvg-name="CBS News New York" tvg-logo="https://i.imgur.com/bpc4v0u.png" group-title="US News & Weather",CBS News New York
 https://jmp2.uk/plu-5dc9b8223687ff000936ed79.m3u8
 #EXTINF:-1 tvg-id="78a1b45133495e54a0a1377b8e828789" tvg-name="CBS News Philadelphia" tvg-logo="https://images.pluto.tv/channels/5eb1b05ea168cc000767ba67/colorLogoPNG.png" group-title="US News & Weather",CBS News Philadelphia
 https://jmp2.uk/plu-5eb1b05ea168cc000767ba67.m3u8
@@ -239,7 +239,7 @@ https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8
 https://jmp2.uk/rok-d0d9af56b7735c318b66afe21089d028.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNN.png" group-title="US News & Weather",CNN
 https://tvsen6.aynaott.com/cnn/index.m3u8
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-66b4fcc2530e39ea2ee79545" tvg-name="CNN Headlines" tvg-logo="https://provider-static.plex.tv/epg/cms/production/de3851fb-9598-4d13-8e03-f421418c9b5b/CNN_Headlines_ChannelLogo_Dark_1500x1000_2025_-_Grace_Hartwig.png" group-title="US News & Weather",CNN Headlines
+#EXTINF:-1 tvg-id="42523afdfa3a0230d7268a238df5ef65" tvg-name="CNN Headlines" tvg-logo="https://provider-static.plex.tv/epg/cms/production/de3851fb-9598-4d13-8e03-f421418c9b5b/CNN_Headlines_ChannelLogo_Dark_1500x1000_2025_-_Grace_Hartwig.png" group-title="US News & Weather",CNN Headlines
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-66b4fcc2530e39ea2ee79545/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-66ad6025cb5d3b7fb5011c2d" tvg-name="CNN Originals" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f351d697-1e1f-4e7d-86c7-5995698e593f/CNN_Originals_ChannelLogo_Dark_1500x1000_2025_-_Grace_Hartwig.png" group-title="US News & Weather",CNN Originals
 https://amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnoriginals-vizious/playlist.m3u8
@@ -253,21 +253,19 @@ https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
 https://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-678fe7959407a53556d3e8eb" tvg-name="FRANCE 24" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d5065d4c-eb84-4fd6-862f-655ff5ca01cd/france24fastenglish_logo_dark_-_David_COURET.png" group-title="US News & Weather",FRANCE 24
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-678fe7959407a53556d3e8eb/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
-#EXTINF:-1 tvg-id="5c8d77c2f6b85da3a7e74223b769ef5c" tvg-name="KPTV FOX 12 Oregon News" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5c8d77c2f6b85da3a7e74223b769ef5c/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1684345991989_KPTV_EPG%2526Hud_LogoKPTV_HUD_logo_260x147.png" group-title="US News & Weather",KPTV FOX 12 Oregon News
-https://jmp2.uk/rok-5c8d77c2f6b85da3a7e74223b769ef5c.m3u8
 #EXTINF:-1 tvg-id="65790cda6e4f6a0008768764" tvg-name="NBC Los Angeles News" tvg-logo="https://images.pluto.tv/channels/65790cda6e4f6a0008768764/colorLogoPNG.png" group-title="US News & Weather",NBC Los Angeles News
 https://jmp2.uk/plu-65790cda6e4f6a0008768764.m3u8
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-5fc70600dd53a6002d8f93ca" tvg-name="NBC News NOW" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="US News & Weather",NBC News NOW
+#EXTINF:-1 tvg-id="b5fe4277ff365ccda0a7d43028d53d90" tvg-name="NBC News NOW" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="US News & Weather",NBC News NOW
 https://d1si3n1st4nkgb.cloudfront.net/10502/88896001/hls/master.m3u8?ads.xumo_channelId=88896001
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-5fc6f3a62b6f7b002e77ffaa" tvg-name="News 12 New York" tvg-logo="https://provider-static.plex.tv/epg/cms/production/07ef54b2-5faf-49d0-a39f-df2775769839/news12ny_logo_dark.png" group-title="US News & Weather",News 12 New York
+#EXTINF:-1 tvg-id="6abe7dcc96d5d834853c8d1c93d97230" tvg-name="News 12 New York" tvg-logo="https://provider-static.plex.tv/epg/cms/production/07ef54b2-5faf-49d0-a39f-df2775769839/news12ny_logo_dark.png" group-title="US News & Weather",News 12 New York
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-5fc6f3a62b6f7b002e77ffaa/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-5fb81660b7ad2d002dcb7335" tvg-name="Newsmax 2" tvg-logo="https://i.imgur.com/iE1izWq.png" group-title="US News & Weather",Newsmax 2
+#EXTINF:-1 tvg-id="28844a800a4e54909eec9695aa3762b2" tvg-name="Newsmax 2" tvg-logo="https://i.imgur.com/iE1izWq.png" group-title="US News & Weather",Newsmax 2
 https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Newsmax Spanish" tvg-logo="https://i.imgur.com/mrXMW7H.png" group-title="US News & Weather",Newsmax Spanish
 https://n1ottesorkatv.akamaized.net/hls/live/2113795/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Newsmax TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/960px-Newsmax_logo.svg.png" group-title="US News & Weather",Newsmax TV
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-5fb81660b7ad2d002dcb7335" tvg-name="Newsmax2" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f3f74374-7cf6-4fdc-8056-7ef9e8eb989b/N2_logo_color.png" group-title="US News & Weather",Newsmax2
+#EXTINF:-1 tvg-id="28844a800a4e54909eec9695aa3762b2" tvg-name="Newsmax2" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f3f74374-7cf6-4fdc-8056-7ef9e8eb989b/N2_logo_color.png" group-title="US News & Weather",Newsmax2
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-5fb81660b7ad2d002dcb7335/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
 #EXTINF:-1 tvg-id="" tvg-name="Newsy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Newsy_2021.svg/960px-Newsy_2021.svg.png" group-title="US News & Weather",Newsy
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
