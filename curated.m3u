@@ -87,7 +87,7 @@ http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
 
 # --- True Crime (44) ---
-#EXTINF:-1 tvg-id="0455f88e83625b3c8c302db0c30fe01e" tvg-name="A&E Crime 360" tvg-logo="https://provider-static.plex.tv/epg/cms/production/06c3d1f2-d57d-438d-a589-049a07abc5a0/AE_Crime_360_color_WHT_TXT.png" group-title="True Crime",A&E Crime 360
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-5f74cf7effbe690040689f41" tvg-name="A&E Crime 360" tvg-logo="https://provider-static.plex.tv/epg/cms/production/06c3d1f2-d57d-438d-a589-049a07abc5a0/AE_Crime_360_color_WHT_TXT.png" group-title="True Crime",A&E Crime 360
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-5f74cf7effbe690040689f41/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
 #EXTINF:-1 tvg-id="7390ae841de55137a5736a3750ec446e" tvg-name="American Crimes" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5b694d82-7b61-49a2-a28e-95b07d8105ac/american-crimes-fclogo-White.png" group-title="True Crime",American Crimes
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6467891c73e5e029428f0e16/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
@@ -483,7 +483,7 @@ https://jmp2.uk/plu-5ca671f215a62078d2ec0abf.m3u8
 https://jmp2.uk/stvp-USBC4400002GF
 #EXTINF:-1 tvg-id="" tvg-name="E! East" tvg-logo="https://i.imgur.com/TWFDkap.png" group-title="Classic Cable & Sitcoms",E! East
 http://23.237.104.106:8080/USA_E/index.m3u8
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-645e328e3ea1d2d705ef8ab2" tvg-name="E! Keeping Up" tvg-logo="https://i.imgur.com/9F7VYDM.png" group-title="Classic Cable & Sitcoms",E! Keeping Up
+#EXTINF:-1 tvg-id="4f05781ce64f5b25a42a10c70853312a" tvg-name="E! Keeping Up" tvg-logo="https://i.imgur.com/9F7VYDM.png" group-title="Classic Cable & Sitcoms",E! Keeping Up
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-645e328e3ea1d2d705ef8ab2/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
 #EXTINF:-1 tvg-id="643f03b9d8436e0008edf021" tvg-name="Family Feud Classic" tvg-logo="https://images.pluto.tv/channels/643f03b9d8436e0008edf021/colorLogoPNG.png" group-title="Classic Cable & Sitcoms",Family Feud Classic
 https://jmp2.uk/plu-643f03b9d8436e0008edf021.m3u8
@@ -539,7 +539,7 @@ https://jmp2.uk/plu-5b4e94282d4ec87bdcbb87cd.m3u8
 https://jmp2.uk/plu-633354b63df9700007f6a1b7.m3u8
 #EXTINF:-1 tvg-id="USBD1700006T2" tvg-name="Storage Wars: LA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700006T2_20261002T182019SQUARE.png" group-title="Classic Cable & Sitcoms",Storage Wars: LA
 https://jmp2.uk/stvp-USBD1700006T2
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-5fc705e2a2236e002d69f3ba" tvg-name="Stories by AMC" tvg-logo="https://i.imgur.com/QJtwJoS.png" group-title="Classic Cable & Sitcoms",Stories by AMC
+#EXTINF:-1 tvg-id="f6ddb474d9cd5ac88f5d1e85186b9cb9" tvg-name="Stories by AMC" tvg-logo="https://i.imgur.com/QJtwJoS.png" group-title="Classic Cable & Sitcoms",Stories by AMC
 https://amc-amcpresents-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/960px-TBS_2020.svg.png" group-title="Classic Cable & Sitcoms",TBS
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
