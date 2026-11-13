@@ -157,7 +157,7 @@ https://jmp2.uk/plu-5f4d8594eb979c0007706de7.m3u8
 https://jmp2.uk/plu-5812be1c249444e05d09cc50.m3u8
 #EXTINF:-1 tvg-id="cc72c25b76295e07862192d21bbff05b" tvg-name="Real Crime" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b0d345b3-05d6-41d2-82b1-0bfdd351312a/Real_Crime_Logo_White_-_Simon_Tuquabordx2.png" group-title="True Crime",Real Crime
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-636d9d2d4ea1109a7d205a70/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
-#EXTINF:-1 tvg-id="8abbea29b86a5a5da299c7ef2e288cab" tvg-name="REELZ Famous and Infamous" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8bcf761d-cf7d-4ee5-84f8-985dcef2cf78/REELZ_Famous_Infamous_1500x1000_Logo_Light_-_Kenneth_Kirtley.png" group-title="True Crime",REELZ Famous and Infamous
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-64f0d3ddc2bc9b9001d46ea4" tvg-name="REELZ Famous and Infamous" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8bcf761d-cf7d-4ee5-84f8-985dcef2cf78/REELZ_Famous_Infamous_1500x1000_Logo_Light_-_Kenneth_Kirtley.png" group-title="True Crime",REELZ Famous and Infamous
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-64f0d3ddc2bc9b9001d46ea4/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-67cbd471cc5136329877e098" tvg-name="The New Detectives" tvg-logo="https://images.pluto.tv/channels/62bdabbc5611f2000761ca30/colorLogoPNG.png" group-title="True Crime",The New Detectives
 https://jmp2.uk/plu-5aea40b35126c2157123aa64.m3u8
@@ -339,9 +339,9 @@ https://jmp2.uk/stvp-USBD1200009JI
 https://lds-timeline-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="USBC39000204J" tvg-name="Military Heroes" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC39000204J_20260528T041536SQUARE.png" group-title="History & Docs",Military Heroes
 https://jmp2.uk/stvp-USBC39000204J
-#EXTINF:-1 tvg-id="8c1a7b2ad899502ca548774ecafaa480" tvg-name="Military Heroes Presented By History" tvg-logo="https://provider-static.plex.tv/epg/cms/production/45a16f23-86c2-4853-bcb6-c462b96d7959/MilitaryHeroes-Channel-Logo-_Light_-1500x1000px.png" group-title="History & Docs",Military Heroes Presented By History
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-63ec15d6290593c3fc279f4a" tvg-name="Military Heroes Presented By History" tvg-logo="https://provider-static.plex.tv/epg/cms/production/45a16f23-86c2-4853-bcb6-c462b96d7959/MilitaryHeroes-Channel-Logo-_Light_-1500x1000px.png" group-title="History & Docs",Military Heroes Presented By History
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-63ec15d6290593c3fc279f4a/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
-#EXTINF:-1 tvg-id="cd2b8b03da52da0868e63927b54f9e7e" tvg-name="Modern Innovations by History" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7fd8ebf6-610f-472c-b2ce-1dc327122ef7/Modern_Innovations_by_History_General_Market_Launch_Channel_logo_color_RDX.png" group-title="History & Docs",Modern Innovations by History
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-67ae8ad1a9b2dfa7f83e17d6" tvg-name="Modern Innovations by History" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7fd8ebf6-610f-472c-b2ce-1dc327122ef7/Modern_Innovations_by_History_General_Market_Launch_Channel_logo_color_RDX.png" group-title="History & Docs",Modern Innovations by History
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-67ae8ad1a9b2dfa7f83e17d6/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-63c97da7187b3c9f3581fdfd" tvg-name="Modern Marvels by History" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aaf9646c-8418-4756-af50-9bd7eac5ef28/Modern_Marvels_logo_wht_text_color.png" group-title="History & Docs",Modern Marvels by History
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-63c97da7187b3c9f3581fdfd/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
@@ -483,7 +483,7 @@ https://jmp2.uk/plu-5ca671f215a62078d2ec0abf.m3u8
 https://jmp2.uk/stvp-USBC4400002GF
 #EXTINF:-1 tvg-id="" tvg-name="E! East" tvg-logo="https://i.imgur.com/TWFDkap.png" group-title="Classic Cable & Sitcoms",E! East
 http://23.237.104.106:8080/USA_E/index.m3u8
-#EXTINF:-1 tvg-id="4f05781ce64f5b25a42a10c70853312a" tvg-name="E! Keeping Up" tvg-logo="https://i.imgur.com/9F7VYDM.png" group-title="Classic Cable & Sitcoms",E! Keeping Up
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-645e328e3ea1d2d705ef8ab2" tvg-name="E! Keeping Up" tvg-logo="https://i.imgur.com/9F7VYDM.png" group-title="Classic Cable & Sitcoms",E! Keeping Up
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-645e328e3ea1d2d705ef8ab2/?X-Plex-Token=yNuR6BXTrvLriR4QxaS6
 #EXTINF:-1 tvg-id="643f03b9d8436e0008edf021" tvg-name="Family Feud Classic" tvg-logo="https://images.pluto.tv/channels/643f03b9d8436e0008edf021/colorLogoPNG.png" group-title="Classic Cable & Sitcoms",Family Feud Classic
 https://jmp2.uk/plu-643f03b9d8436e0008edf021.m3u8
