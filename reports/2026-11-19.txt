@@ -1,0 +1,11 @@
+[2026-11-19 10:46:00] total=286 dead=6 replaced=2 quarantined=4
+  REPLACED Scripps News
+    old: https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist.m3u8
+    new: https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-5fc705dda2236e002d69f211/?X-Plex-Token=cZxgfvBHyPjysjGxbt3u (match 100%)
+  REPLACED TMZ
+    old: https://aegis-cloudfront-1.tubi.video/57c1fa3c-566b-4998-b6de-d6de67031d99/index.m3u8
+    new: https://jmp2.uk/stvp-USBD70000213 (match 100%)
+  QUARANTINED [Cartoons & Kids] Boomerang  http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
+  QUARANTINED [True Crime] True Crime Network WCVB-TV  https://aegis-cloudfront-1.tubi.video/c2e3094d-ad56-4c5f-9655-cd80df71fbab/playlist.m3u8
+  QUARANTINED [Classic Cable & Sitcoms] Cinemax Classics  http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+  QUARANTINED [Classic Cable & Sitcoms] MTV Live  http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
