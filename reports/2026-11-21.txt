@@ -1,0 +1,10 @@
+[2026-11-21 10:35:40] total=282 dead=9 replaced=0 quarantined=9
+  QUARANTINED [Cartoons & Kids] Starz Kids and Family  http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
+  QUARANTINED [True Crime] Crime + Investigation  http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8
+  QUARANTINED [US News & Weather] Bloomberg TV  http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
+  QUARANTINED [US News & Weather] One America News Network  http://23.237.104.106:8080/USA_OAN/index.m3u8
+  QUARANTINED [Classic Cable & Sitcoms] Cinemax Hits  http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+  QUARANTINED [Classic Cable & Sitcoms] Cinemax West  http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8
+  QUARANTINED [Classic Cable & Sitcoms] E! East  http://23.237.104.106:8080/USA_E/index.m3u8
+  QUARANTINED [Classic Cable & Sitcoms] Paramount Network  http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
+  QUARANTINED [Classic Cable & Sitcoms] We TV  http://23.237.104.106:8080/USA_WE_TV/index.m3u8
