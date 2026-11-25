@@ -1,0 +1,2 @@
+[2026-11-25 10:45:20] total=273 dead=1 replaced=0 quarantined=1
+  QUARANTINED [Classic Cable & Sitcoms] Game Show Network  https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
